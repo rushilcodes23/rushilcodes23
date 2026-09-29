@@ -1,41 +1,77 @@
-## Hi, I'm Rushil 👋
+<div align="center">
 
-I build websites and the tools that run behind them. Right now that work goes into **[Ru Visibility](https://ruvisibility.com)**, my one-person SEO and GEO consultancy.
+# Hi, I'm Rushil 👋
 
-GEO means getting a business recommended by AI tools like ChatGPT, Gemini and Perplexity, not just found on Google. The question I work on is simple: when someone asks Google or an AI "who should I use?", does your business come up?
+**Founder of [Ru Visibility](https://ruvisibility.com). I work on getting businesses found on Google and recommended by AI tools like ChatGPT.**
 
-I'm based in India and work with businesses in the US and India.
+Based in India · Working with businesses in the US and India
 
-### What I've found so far
+<br>
 
-I built my own audit tool and ran it on **1,504 real business websites** between 13 August and 20 September 2026. On average they scored 83.4 out of 100 for Google, but only 68.6 for AI visibility. Exactly one of them scored an A for AI.
+[![ruvisibility.com](https://img.shields.io/badge/ruvisibility.com-047857?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ruvisibility.com)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:rushil@ruvisibility.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZmlsbD0nd2hpdGUnIGQ9J000Ljk4IDMuNUM0Ljk4IDQuODggMy44NyA2IDIuNSA2UzAgNC44OCAwIDMuNSAxLjEyIDEgMi41IDFzMi40OCAxLjEyIDIuNDggMi41ek0uNSA4aDR2MTZoLTRWOHptNy41IDBoMy44djIuMmguMDVjLjUzLTEgMS44My0yLjIgMy43Ny0yLjIgNC4wMyAwIDQuNzggMi42NSA0Ljc4IDYuMVYyNGgtNHYtNy44YzAtMS44Ni0uMDMtNC4yNS0yLjU5LTQuMjUtMi42IDAtMyAyLjAzLTMgNC4xMlYyNGgtNFY4eicvPjwvc3ZnPg==)](https://www.linkedin.com/in/rushil-a-bajpai-21b99a3a9/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RushilA_Bajpai)
 
-The full findings, with no site named: **[What we found auditing 1,504 websites](https://ruvisibility.com/research)**
+</div>
 
-### What I build
+<br>
 
-- **[ru-visibility-site](https://github.com/rushilcodes23/ru-visibility-site)**: the full source of [ruvisibility.com](https://ruvisibility.com), built with Next.js and running on Cloudflare Workers. The site sells audits, so it had better pass one: security headers, structured data, `llms.txt`, and its own [accessibility scan](https://ruvisibility.com/accessibility) published with the date.
-- **Audit tool** *(private)*: the tool behind the research. It crawls a site, checks which AI crawlers are allowed in, scores it for SEO and for AI, runs accessibility checks in a real browser, and turns the result into a one-page PDF report. It stays private because it's the product. The findings are public.
-- **[TidyBench](https://github.com/rushilcodes23/TidyBench)**: an earlier Python project. Upload a messy CSV, see what's wrong with it, fix it in a few clicks, and download a clean file with a plain-English report.
+## 🔎 What I do
 
-### How I build
+When someone asks Google or ChatGPT *"who's the best dentist near me?"*, a few businesses get named and most don't.
 
-I build with AI coding tools, mainly Claude Code, and you'll see it credited as co-author on most of my commits. My part is deciding what gets built, setting the rules it has to follow, and checking the result on the live site before I call anything done.
+My work is finding out why a business isn't showing up, fixing what's holding it back, and showing the before and after. I run Ru Visibility on my own, so you talk to the person doing the work, and you get updates in plain English.
 
-**Web:** Next.js · React · TypeScript · Tailwind CSS · Cloudflare Workers<br>
-**Automation and data:** Node.js · Playwright · Python · pandas · Streamlit<br>
-**SEO and GEO:** structured data (JSON-LD) · AI crawler access · `llms.txt` · sitemaps and IndexNow · accessibility testing with axe-core
+<br>
 
+## 🤝 How I can help
+
+- **Show up in AI answers.** Getting your business named when people ask ChatGPT, Gemini or Perplexity.
+- **Get found on Google.** Technical SEO, local search, and your Google Business Profile.
+- **A better website.** A new site, or fixes and speed for the one you have.
+- **Accessibility checks.** Real scans for what stops disabled visitors from using your site, and fixes.
+- **AI for everyday work.** Small tools that take the boring, repetitive jobs off your plate.
+
+<br>
+
+## 📂 My work
+
+**[Research: 1,504 websites audited](https://ruvisibility.com/research)**<br>
+I built my own audit tool and ran it on 1,504 real business websites. On average they scored about 83 out of 100 for Google, but only about 69 for AI. Just one got an A.
+
+**[ruvisibility.com](https://ruvisibility.com)**<br>
+My business website. I built it, and the code is public: [ru-visibility-site](https://github.com/rushilcodes23/ru-visibility-site)
+
+**[TidyBench](https://github.com/rushilcodes23/TidyBench)**<br>
+An earlier project. Upload a messy spreadsheet, see what's wrong with it, and fix it in a few clicks.
+
+<br>
+
+## 🛠️ Tools I use
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,cloudflare,nodejs,python" alt="Next.js, React, TypeScript, Tailwind CSS, Cloudflare, Node.js, Python">
+
+I build with modern AI coding tools and check everything on the live site myself.
+
+<br>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushilcodes23/rushilcodes23/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushilcodes23/rushilcodes23/pacman-output/pacman-contribution-graph.svg">
   <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/rushilcodes23/rushilcodes23/pacman-output/pacman-contribution-graph.svg">
 </picture>
+</div>
 
-### Get a free check
+<br>
 
-Send me your website and I'll run my audit tool on it for free. You get both scores and the full list of fixes, best one first. Not a teaser.
+## 💬 Let's talk
 
-**[Get your free check at ruvisibility.com](https://ruvisibility.com/#audit)** · [rushil@ruvisibility.com](mailto:rushil@ruvisibility.com) · [LinkedIn](https://www.linkedin.com/in/rushil-a-bajpai-21b99a3a9/) · [X](https://x.com/RushilA_Bajpai)
+**Want to know if AI can find your business?** Send me your website and I'll run a free check. You get two scores, one for Google and one for AI, plus a list of fixes with the best one first.
 
-<sub>Away from the keyboard: I played in the National Under-17 Chess Championship.</sub>
+[![Get a free check](https://img.shields.io/badge/Get%20a%20free%20check%20%E2%86%92-047857?style=for-the-badge)](https://ruvisibility.com/#audit)
+
+<br>
+
+<sub>♟️ Fun fact: I played in the National Under-17 Chess Championship.</sub>
