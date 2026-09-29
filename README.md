@@ -1,74 +1,31 @@
-<br clear="both">
+## Hi, I'm Rushil
 
-<h1 data-importer="text" align="left">Hey 👋  I am  Rushil</h1>
+I run **[Ru Visibility](https://ruvisibility.com)**, a one-person SEO and GEO consultancy. I'm based in India and work with businesses in the US and India.
 
-###
+GEO means getting a business recommended by AI tools like ChatGPT, Gemini and Perplexity, not just found on Google. That's the question I work on: when someone asks Google or an AI "who should I use?", does your business come up?
 
-<p data-importer="text" align="left">I learn. I code. I fail. I try again. I code better</p>
+### What I've found so far
 
-###
+I built my own audit tool and ran it on **1,504 real business websites** between 13 August and 20 September 2026. On average they scored 83.4 out of 100 for Google, but only 68.6 for AI visibility. Exactly one of them scored an A for AI.
 
-<br clear="both">
+The full findings, with no site named: **[What we found auditing 1,504 websites](https://ruvisibility.com/research)**
 
-<img data-importer="image" align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZtcHRiOWNybmJxOTF4ZXF1c3dhcXVkeTQzbGFrMnVpazBmZDU4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ngAN8x9YCURtgmF0SO/giphy.gif"  />
+### Projects
 
-###
+- **[ru-visibility-site](https://github.com/rushilcodes23/ru-visibility-site)**: the full source of [ruvisibility.com](https://ruvisibility.com), built with Next.js and running on Cloudflare Workers. The site sells audits, so it had better pass one: security headers, structured data, `llms.txt`, and its own [accessibility scan](https://ruvisibility.com/accessibility) published with the date.
+- **Audit tool** *(private)*: the tool behind the research. It crawls a site, checks which AI crawlers are allowed in, scores it for SEO and for AI, runs accessibility checks in a real browser, and turns the result into a one-page PDF report. It stays private because it's the product. The findings are public.
+- **[TidyBench](https://github.com/rushilcodes23/TidyBench)**: an earlier Python project. Upload a messy CSV, see what's wrong with it, fix it in a few clicks, and download a clean file with a plain-English report.
 
-<h2 data-importer="text" align="left">About me</h2>
+### How I build
 
-###
+I build with AI coding tools, mainly Claude Code, and you'll see it credited as co-author on most of my commits. My part is deciding what gets built, setting the rules it has to follow, and checking the result on the live site before I call anything done.
 
-<p data-importer="text" align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning advanced ML techniques<br>🎯 Goals: Bridging tech & business — breaking into Solutions Engineering<br>🎲 Fun fact: I played in the National Under-17 Chess Championship</p>
+**What my code runs on:** Next.js · React · TypeScript · Tailwind CSS · Cloudflare Workers · Node.js · Playwright · axe-core · Python · pandas · Streamlit
 
-###
+### Get a free check
 
-<h2 data-importer="text" align="left">Skills</h2>
+Send me your website and I'll run my audit tool on it for free. You get both scores and the full list of fixes, best one first. Not a teaser.
 
-###
+**[Get your free check at ruvisibility.com](https://ruvisibility.com/#audit)** · [rushil@ruvisibility.com](mailto:rushil@ruvisibility.com) · [LinkedIn](https://www.linkedin.com/in/rushil-a-bajpai-21b99a3a9/) · [X](https://x.com/RushilA_Bajpai)
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushilcodes23/rushilcodes23/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushilcodes23/rushilcodes23/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rushilcodes23/rushilcodes23/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/rushil-a-bajpai-21b99a3a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="Ru_2307" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Somethingbetterdaily" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="Rushilabajpai" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+<sub>Away from the keyboard: I played in the National Under-17 Chess Championship.</sub>
