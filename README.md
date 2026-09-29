@@ -1,8 +1,10 @@
-## Hi, I'm Rushil
+## Hi, I'm Rushil 👋
 
-I run **[Ru Visibility](https://ruvisibility.com)**, a one-person SEO and GEO consultancy. I'm based in India and work with businesses in the US and India.
+I build websites and the tools that run behind them. Right now that work goes into **[Ru Visibility](https://ruvisibility.com)**, my one-person SEO and GEO consultancy.
 
-GEO means getting a business recommended by AI tools like ChatGPT, Gemini and Perplexity, not just found on Google. That's the question I work on: when someone asks Google or an AI "who should I use?", does your business come up?
+GEO means getting a business recommended by AI tools like ChatGPT, Gemini and Perplexity, not just found on Google. The question I work on is simple: when someone asks Google or an AI "who should I use?", does your business come up?
+
+I'm based in India and work with businesses in the US and India.
 
 ### What I've found so far
 
@@ -10,7 +12,7 @@ I built my own audit tool and ran it on **1,504 real business websites** between
 
 The full findings, with no site named: **[What we found auditing 1,504 websites](https://ruvisibility.com/research)**
 
-### Projects
+### What I build
 
 - **[ru-visibility-site](https://github.com/rushilcodes23/ru-visibility-site)**: the full source of [ruvisibility.com](https://ruvisibility.com), built with Next.js and running on Cloudflare Workers. The site sells audits, so it had better pass one: security headers, structured data, `llms.txt`, and its own [accessibility scan](https://ruvisibility.com/accessibility) published with the date.
 - **Audit tool** *(private)*: the tool behind the research. It crawls a site, checks which AI crawlers are allowed in, scores it for SEO and for AI, runs accessibility checks in a real browser, and turns the result into a one-page PDF report. It stays private because it's the product. The findings are public.
@@ -20,7 +22,15 @@ The full findings, with no site named: **[What we found auditing 1,504 websites]
 
 I build with AI coding tools, mainly Claude Code, and you'll see it credited as co-author on most of my commits. My part is deciding what gets built, setting the rules it has to follow, and checking the result on the live site before I call anything done.
 
-**What my code runs on:** Next.js · React · TypeScript · Tailwind CSS · Cloudflare Workers · Node.js · Playwright · axe-core · Python · pandas · Streamlit
+**Web:** Next.js · React · TypeScript · Tailwind CSS · Cloudflare Workers<br>
+**Automation and data:** Node.js · Playwright · Python · pandas · Streamlit<br>
+**SEO and GEO:** structured data (JSON-LD) · AI crawler access · `llms.txt` · sitemaps and IndexNow · accessibility testing with axe-core
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushilcodes23/rushilcodes23/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushilcodes23/rushilcodes23/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/rushilcodes23/rushilcodes23/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ### Get a free check
 
