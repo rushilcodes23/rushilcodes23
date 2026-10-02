@@ -2,9 +2,9 @@
 
 # Hi, I'm Rushil 👋
 
-**Founder of [Ru Visibility](https://ruvisibility.com). I work on getting businesses found on Google and recommended by AI tools like ChatGPT.**
+**I help businesses show up on Google and in AI answers like ChatGPT.**
 
-Based in India · Working with businesses in the US and India
+Founder of [Ru Visibility](https://ruvisibility.com) · India · Working with businesses in the US and India
 
 <br>
 
@@ -19,40 +19,40 @@ Based in India · Working with businesses in the US and India
 
 ## 🔎 What I do
 
-When someone asks Google or ChatGPT *"who's the best dentist near me?"*, a few businesses get named and most don't.
+When someone asks Google or ChatGPT for a business like yours, a few names come up and most don't.
 
-My work is finding out why a business isn't showing up, fixing what's holding it back, and showing the before and after. I run Ru Visibility on my own, so you talk to the person doing the work, and you get updates in plain English.
+I find out why yours isn't one of them, fix what's holding it back, and show you the before and after. I work alone, so you talk to the person doing the work, and everything is explained in plain English.
+
+<br>
+
+## 🛠️ What I've built
+
+**An SEO and AI-visibility audit tool**<br>
+It checks whether ChatGPT, Gemini and Perplexity can even reach a website, scores it separately for Google and for AI answers, and gives a fix list with the most useful fix first. It also catches duplicate pages, broken structured data, accessibility problems and missing basics.
+
+**Research: 1,504 websites audited → [ruvisibility.com/research](https://ruvisibility.com/research)**<br>
+I ran my tool on 1,504 real business websites. They averaged 83 out of 100 for Google but only 69 for AI. Just one got an A for AI. The results are public, so you can check them yourself.
+
+**[ruvisibility.com](https://ruvisibility.com)**<br>
+My business website, built from scratch: fast on phones, accessible, and easy for Google and AI to read. The code is public: [ru-visibility-site](https://github.com/rushilcodes23/ru-visibility-site)
+
+**[TidyBench](https://github.com/rushilcodes23/TidyBench)**<br>
+Upload a messy spreadsheet, see what's wrong with it, fix it in a few clicks, and get a plain-English report of every change. Python, pandas, Streamlit.
 
 <br>
 
 ## 🤝 How I can help
 
-- **Show up in AI answers.** Getting your business named when people ask ChatGPT, Gemini or Perplexity.
-- **Get found on Google.** Technical SEO, local search, and your Google Business Profile.
-- **A better website.** A new site, or fixes and speed for the one you have.
-- **Accessibility checks.** Real scans for what stops disabled visitors from using your site, and fixes.
-- **AI for everyday work.** Small tools that take the boring, repetitive jobs off your plate.
+- **Show up in AI answers.** Get your business named when people ask ChatGPT, Gemini or Perplexity.
+- **Get found on Google.** Technical SEO, local search and your Google Business Profile.
+- **A faster, better website.** A new site, or speed and accessibility fixes for the one you have.
+- **Data work.** Cleaning and analysing messy data in Python or Excel.
 
 <br>
 
-## 📂 My work
-
-**[Research: 1,504 websites audited](https://ruvisibility.com/research)**<br>
-I built my own audit tool and ran it on 1,504 real business websites. On average they scored about 83 out of 100 for Google, but only about 69 for AI. Just one got an A.
-
-**[ruvisibility.com](https://ruvisibility.com)**<br>
-My business website. I built it, and the code is public: [ru-visibility-site](https://github.com/rushilcodes23/ru-visibility-site)
-
-**[TidyBench](https://github.com/rushilcodes23/TidyBench)**<br>
-An earlier project. Upload a messy spreadsheet, see what's wrong with it, and fix it in a few clicks.
-
-<br>
-
-## 🛠️ Tools I use
+## 🧰 Tools I use
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,cloudflare,nodejs,python" alt="Next.js, React, TypeScript, Tailwind CSS, Cloudflare, Node.js, Python">
-
-I build with modern AI coding tools and check everything on the live site myself.
 
 <br>
 
@@ -71,7 +71,3 @@ I build with modern AI coding tools and check everything on the live site myself
 **Want to know if AI can find your business?** Send me your website and I'll run a free check. You get two scores, one for Google and one for AI, plus a list of fixes with the best one first.
 
 [![Get a free check](https://img.shields.io/badge/Get%20a%20free%20check%20%E2%86%92-047857?style=for-the-badge)](https://ruvisibility.com/#audit)
-
-<br>
-
-<sub>♟️ Fun fact: I played in the National Under-17 Chess Championship.</sub>
